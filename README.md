@@ -24,7 +24,8 @@ W pliku `app.js` zaimportuj funkcje z `calculator.js` i przetestuj je na kilku p
 
 - `increment()` – zwiększa wartość count o 1,
 - `decrement()` – zmniejsza wartość count o 1,
-- `getCount()` – zwraca aktualną wartość count.
+- `getCount()` – zwraca aktualną wartość count,
+- `resetCount()` - resetuje wartość count.
 
 Eksportuj funkcje za pomocą `module.exports`.
 
